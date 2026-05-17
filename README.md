@@ -1,6 +1,6 @@
 # Paul
 
-Laravel Full-Stack Developer focused on scalable SaaS applications and modern web systems.
+Full-Stack Developer focused on scalable SaaS applications and modern web systems.
 
 ---
 
@@ -74,6 +74,6 @@ Backend API experiments and integrations using Django.
 ---
 
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your@email.com
+- GitHub: https://github.com/wanjaiya
+- LinkedIn: https://www.linkedin.com/in/paul-wanjaiya
+- Email: kangethewanjaiya@gmail.com
